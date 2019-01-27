@@ -1,6 +1,6 @@
 {
   "name": "beck-npmjs-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "tt",
   "main": "index.js",
   "scripts": {
